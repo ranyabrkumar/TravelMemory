@@ -115,14 +115,21 @@ server {
 
 ### 4. AWS Load Balancer (ALB)
 
-- **Create Target Group**: `travelmemory-backend-tg`, port 3000
+- **Create Target Group**: `travel-be`, port 3001
 - **Register** backend EC2(s)
 - **Create ALB**: HTTP listener → forwards to target group
-- **Set Health Check path**: `/health`
+- **Set Health Check path**: `/trip`
+- **Create Target Group**: `travel-fe`, port 3000
+- **Register** backend EC2(s)
+- **Create ALB**: HTTP listener → forwards to target group
+- **Set Health Check path**: `/addexperience`
+
 
 ---
 
 ### 5. Cloudflare DNS Configuration
+ Created a domain from namecheap DNS provider.
+ Confingured it with cloudflare.
 
 ![Cloudflare_DNS](https://github.com/user-attachments/assets/c7df4be6-9d2d-4f8b-82e5-3f7aaa6c1b73)
 
