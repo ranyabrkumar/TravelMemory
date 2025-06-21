@@ -1,0 +1,335 @@
+Server started at http://localhost:3001
+Server started at http://localhost:3001
+{
+  tripName: 'EC@_TEST',
+  startDateOfJourney: '2025-06-20',
+  endDateOfJourney: '2025-06-23',
+  nameOfHotels: 'EC@_TEST',
+  placesVisited: 'EC@_TEST',
+  totalCost: '1000',
+  experience: 'EC@_TEST',
+  image: 'EC@_TEST',
+  tripType: 'business',
+  featured: false,
+  shortDescription: 'EC@_TEST'
+}
+{
+  tripName: 'EC@_TEST',
+  startDateOfJourney: '2025-06-20',
+  endDateOfJourney: '2025-06-24',
+  nameOfHotels: 'EC@_TEST',
+  placesVisited: 'EC@_TEST',
+  totalCost: '1000',
+  experience: 'EC@_TEST',
+  image: 'hhtp://EC@_TEST.com',
+  tripType: '',
+  featured: false,
+  shortDescription: 'EC@_TEST'
+}
+ERROR
+{
+  tripName: 'EC@_TEST',
+  startDateOfJourney: '2025-06-20',
+  endDateOfJourney: '2025-06-24',
+  nameOfHotels: 'EC@_TEST',
+  placesVisited: 'EC@_TEST',
+  totalCost: '1000',
+  experience: 'EC@_TEST',
+  image: 'hhtp://EC@_TEST.com',
+  tripType: '',
+  featured: false,
+  shortDescription: 'EC@_TEST'
+}
+ERROR
+{
+  tripName: 'EC@_TEST',
+  startDateOfJourney: '2025-06-20',
+  endDateOfJourney: '2025-06-24',
+  nameOfHotels: 'EC@_TEST',
+  placesVisited: 'EC@_TEST',
+  totalCost: '1000',
+  experience: 'EC@_TEST',
+  image: 'hhtp://EC@_TEST.com',
+  tripType: '',
+  featured: false,
+  shortDescription: 'EC@_TEST'
+}
+ERROR
+{
+  tripName: 'EC@_TEST',
+  startDateOfJourney: '2025-06-20',
+  endDateOfJourney: '2025-06-24',
+  nameOfHotels: 'EC@_TEST',
+  placesVisited: 'EC@_TEST',
+  totalCost: '1000',
+  experience: 'EC@_TEST',
+  image: 'hhtp://EC@_TEST.com',
+  tripType: '',
+  featured: false,
+  shortDescription: 'EC@_TEST'
+}
+ERROR
+{
+  tripName: 'EC@_TEST',
+  startDateOfJourney: '2025-06-20',
+  endDateOfJourney: '2025-06-24',
+  nameOfHotels: 'EC@_TEST',
+  placesVisited: 'EC@_TEST',
+  totalCost: '1000',
+  experience: 'EC@_TEST',
+  image: 'hhtp://EC@_TEST.com',
+  tripType: '',
+  featured: false,
+  shortDescription: 'EC@_TEST'
+}
+ERROR
+{
+  tripName: 'EC@_TEST',
+  startDateOfJourney: '2025-06-20',
+  endDateOfJourney: '2025-06-24',
+  nameOfHotels: 'EC@_TEST',
+  placesVisited: 'EC@_TEST',
+  totalCost: '1000',
+  experience: 'EC@_TEST',
+  image: 'hhtp://EC@_TEST.com',
+  tripType: '',
+  featured: false,
+  shortDescription: 'EC@_TEST'
+}
+ERROR
+{
+  tripName: 'EC@_TEST',
+  startDateOfJourney: '2025-06-20',
+  endDateOfJourney: '2025-06-24',
+  nameOfHotels: 'EC@_TEST',
+  placesVisited: 'EC@_TEST',
+  totalCost: '1000',
+  experience: 'EC@_TEST',
+  image: 'hhtp://EC@_TEST.com',
+  tripType: '',
+  featured: false,
+  shortDescription: 'EC@_TEST'
+}
+ERROR
+{
+  tripName: 'EC@_TEST',
+  startDateOfJourney: '2025-06-20',
+  endDateOfJourney: '2025-06-24',
+  nameOfHotels: 'EC@_TEST',
+  placesVisited: 'EC@_TEST',
+  totalCost: '1000',
+  experience: 'EC@_TEST',
+  image: 'hhtp://EC@_TEST.com',
+  tripType: '',
+  featured: false,
+  shortDescription: 'EC@_TEST'
+}
+ERROR
+{
+  tripName: 'EC@_TEST',
+  startDateOfJourney: '2025-06-20',
+  endDateOfJourney: '2025-06-24',
+  nameOfHotels: 'EC@_TEST',
+  placesVisited: 'EC@_TEST',
+  totalCost: '1000',
+  experience: 'EC@_TEST',
+  image: 'hhtp://EC@_TEST.com',
+  tripType: '',
+  featured: false,
+  shortDescription: 'EC@_TEST'
+}
+ERROR
+{
+  tripName: 'EC@_TEST',
+  startDateOfJourney: '2025-06-20',
+  endDateOfJourney: '2025-06-24',
+  nameOfHotels: 'EC@_TEST',
+  placesVisited: 'EC@_TEST',
+  totalCost: '1000',
+  experience: 'EC@_TEST',
+  image: 'hhtp://EC@_TEST.com',
+  tripType: '',
+  featured: false,
+  shortDescription: 'EC@_TEST'
+}
+ERROR
+{
+  tripName: 'EC@_TEST',
+  startDateOfJourney: '2025-06-20',
+  endDateOfJourney: '2025-06-24',
+  nameOfHotels: 'EC@_TEST',
+  placesVisited: 'EC@_TEST',
+  totalCost: '1000',
+  experience: 'EC@_TEST',
+  image: 'hhtp://EC@_TEST.com',
+  tripType: '',
+  featured: false,
+  shortDescription: 'EC@_TEST'
+}
+ERROR
+{
+  tripName: 'EC@_TEST',
+  startDateOfJourney: '2025-06-20',
+  endDateOfJourney: '2025-06-24',
+  nameOfHotels: 'EC@_TEST',
+  placesVisited: 'EC@_TEST',
+  totalCost: '1000',
+  experience: 'EC@_TEST',
+  image: 'hhtp://EC@_TEST.com',
+  tripType: '',
+  featured: false,
+  shortDescription: 'EC@_TEST'
+}
+ERROR
+{
+  tripName: 'EC@_TEST',
+  startDateOfJourney: '2025-06-20',
+  endDateOfJourney: '2025-06-24',
+  nameOfHotels: 'EC@_TEST',
+  placesVisited: 'EC@_TEST',
+  totalCost: '1000',
+  experience: 'EC@_TEST',
+  image: 'hhtp://EC@_TEST.com',
+  tripType: '',
+  featured: false,
+  shortDescription: 'EC@_TEST'
+}
+ERROR
+{
+  tripName: 'EC@_TEST',
+  startDateOfJourney: '2025-06-20',
+  endDateOfJourney: '2025-06-24',
+  nameOfHotels: 'EC@_TEST',
+  placesVisited: 'EC@_TEST',
+  totalCost: '1000',
+  experience: 'EC@_TEST',
+  image: 'hhtp://EC@_TEST.com',
+  tripType: '',
+  featured: false,
+  shortDescription: 'EC@_TEST'
+}
+ERROR
+{
+  tripName: 'EC@_TEST',
+  startDateOfJourney: '2025-06-20',
+  endDateOfJourney: '2025-06-24',
+  nameOfHotels: 'EC@_TEST',
+  placesVisited: 'EC@_TEST',
+  totalCost: '1000',
+  experience: 'EC@_TEST',
+  image: 'hhtp://EC@_TEST.com',
+  tripType: '',
+  featured: false,
+  shortDescription: 'EC@_TEST'
+}
+ERROR
+{
+  tripName: 'EC@_TEST',
+  startDateOfJourney: '2025-06-20',
+  endDateOfJourney: '2025-06-24',
+  nameOfHotels: 'EC@_TEST',
+  placesVisited: 'EC@_TEST',
+  totalCost: '1000',
+  experience: 'EC@_TEST',
+  image: 'hhtp://EC@_TEST.com',
+  tripType: '',
+  featured: false,
+  shortDescription: 'EC@_TEST'
+}
+ERROR
+{
+  tripName: 'EC@_TEST',
+  startDateOfJourney: '2025-06-20',
+  endDateOfJourney: '2025-06-24',
+  nameOfHotels: 'EC@_TEST',
+  placesVisited: 'EC@_TEST',
+  totalCost: '1000',
+  experience: 'EC@_TEST',
+  image: 'hhtp://EC@_TEST.com',
+  tripType: '',
+  featured: false,
+  shortDescription: 'EC@_TEST'
+}
+ERROR
+{
+  tripName: 'Paris',
+  startDateOfJourney: '2025-06-21',
+  endDateOfJourney: '2025-06-28',
+  nameOfHotels: 'ABC INTERNATIONAL',
+  placesVisited: 'Paris',
+  totalCost: '2000',
+  experience: 'Good experience',
+  image: 'http://abc.com',
+  tripType: 'leisure',
+  featured: false,
+  shortDescription: 'Good'
+}
+{
+  tripName: 'Paris',
+  startDateOfJourney: '2025-06-21',
+  endDateOfJourney: '2025-06-28',
+  nameOfHotels: 'ABC INTERNATIONAL',
+  placesVisited: 'Paris',
+  totalCost: '2000',
+  experience: 'Good experience',
+  image: 'http://abc.com',
+  tripType: 'leisure',
+  featured: false,
+  shortDescription: 'Good'
+}
+{
+  tripName: 'Paris',
+  startDateOfJourney: '2025-06-21',
+  endDateOfJourney: '2025-06-28',
+  nameOfHotels: 'ABC INTERNATIONAL',
+  placesVisited: 'Paris',
+  totalCost: '2000',
+  experience: 'Good experience',
+  image: 'http://abc.com',
+  tripType: 'leisure',
+  featured: true,
+  shortDescription: 'Good '
+}
+{
+  tripName: 'Paris',
+  startDateOfJourney: '2025-06-21',
+  endDateOfJourney: '2025-06-28',
+  nameOfHotels: 'ABC INTERNATIONAL',
+  placesVisited: 'Paris',
+  totalCost: '2000',
+  experience: 'Good experience',
+  image: 'http://abc.com',
+  tripType: 'leisure',
+  featured: true,
+  shortDescription: 'Good '
+}
+Server started at http://localhost:3001
+{
+  tripName: 'London',
+  startDateOfJourney: '2025-06-21',
+  endDateOfJourney: '2025-06-28',
+  nameOfHotels: 'London international',
+  placesVisited: 'London',
+  totalCost: '1000',
+  experience: 'Good Experience',
+  image: 'http://London.com',
+  tripType: 'leisure',
+  featured: false,
+  shortDescription: 'Good'
+}
+Server started at http://localhost:3001
+Server started at http://localhost:3001
+{
+  tripName: 'Kerala',
+  startDateOfJourney: '2025-06-28',
+  endDateOfJourney: '2025-06-30',
+  nameOfHotels: 'kerala International',
+  placesVisited: 'Kerala',
+  totalCost: '5000',
+  experience: 'nice experience',
+  image: 'http://travel.com',
+  tripType: 'business',
+  featured: false,
+  shortDescription: 'good'
+}
+Server started at http://localhost:3001
